@@ -1,0 +1,2 @@
+nuage_acl_entries:
+  - { action: "FORWARD", protocol: "6", location_type: "ANY", network_type: "ANY", destination_port: "1336", priority: 10 }
